@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou o João Bertocco</h1>
-<h3 align="center">estudante de engenharia da computação</h3>
+<h3 align="center">estudante de Bacharelado em TI</h3>
 
 <p align="left"> <img src="https: //komarev.com/ghpvc/?username=joaobertocco&label=Profile%20views&color=0e75b6&style=flat" alt="joaobertocco" /> </p>
 
