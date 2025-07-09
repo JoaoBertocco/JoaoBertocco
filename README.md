@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">- TI Student<br>- Analyst<br>- AI Enthusiast</p>
+<p align="left">- 🎓 Bacharel em Tecnologia da Informação (UNIVESP)</p>
+💻 Desenvolvedor Python | Projetos com IA e Dados</p>
+📚 Pós-graduação em Inteligência Artificial (em andamento)</p>
+🔗 Acesse meus repositórios abaixo
 
 ###
 
