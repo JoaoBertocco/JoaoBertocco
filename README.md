@@ -3,8 +3,8 @@
 ###
 
 <p align="left">🎓 Bacharel em Tecnologia da Informação (UNIVESP)</p>
-💻 Desenvolvedor Python | Projetos com IA e Dados</p>
-📚 Pós-graduação em Inteligência Artificial (em andamento)</p>
+💻 Desenvolvedor </p>
+</p>
 🔗 Acesse meus repositórios abaixo
 
 ###
